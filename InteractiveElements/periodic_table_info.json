@@ -1,19 +1,5 @@
-{
-    "H": {
-        "name": "Hydrogen",
-        "symbol": "H",
-        "atomic_number": 1,
-        "atomic_mass": 1.008,
-        "electron_configuration": "1s1",
-        "phase": "Gas",
-        "category": "Nonmetal",
-        "density": 0.00008988,
-        "melting_point": 14.01,
-        "boiling_point": 20.28,
-        "discovery_year": 1766,
-        "uses": "Used in the production of ammonia, as a fuel in rockets, and in hydrogenation of fats and oils."
-    },
-    "He": {
+[
+    {
         "name": "Helium",
         "symbol": "He",
         "atomic_number": 2,
@@ -27,7 +13,7 @@
         "discovery_year": 1868,
         "uses": "Used in balloons, deep-sea diving, and cryogenics."
     },
-    "Li": {
+    {
         "name": "Lithium",
         "symbol": "Li",
         "atomic_number": 3,
@@ -41,7 +27,7 @@
         "discovery_year": 1817,
         "uses": "Used in batteries, lubricants, and mood-stabilizing drugs."
     },
-    "Be": {
+    {
         "name": "Beryllium",
         "symbol": "Be",
         "atomic_number": 4,
@@ -55,7 +41,7 @@
         "discovery_year": 1798,
         "uses": "Used in aerospace material, X-ray windows, and gemstones."
     },
-    "B": {
+    {
         "name": "Boron",
         "symbol": "B",
         "atomic_number": 5,
@@ -69,7 +55,7 @@
         "discovery_year": 1808,
         "uses": "Used in glassmaking, detergents, and as a semiconductor."
     },
-    "C": {
+    {
         "name": "Carbon",
         "symbol": "C",
         "atomic_number": 6,
@@ -83,7 +69,7 @@
         "discovery_year": "Ancient",
         "uses": "Used in steelmaking, as a fuel, and in organic chemistry."
     },
-    "N": {
+    {
         "name": "Nitrogen",
         "symbol": "N",
         "atomic_number": 7,
@@ -97,7 +83,7 @@
         "discovery_year": 1772,
         "uses": "Used in fertilizers, explosives, and as a refrigerant."
     },
-    "O": {
+    {
         "name": "Oxygen",
         "symbol": "O",
         "atomic_number": 8,
@@ -107,11 +93,11 @@
         "category": "Nonmetal",
         "density": 0.001429,
         "melting_point": 54.36,
-        "boiling_point": 90.20,
+        "boiling_point": 90.2,
         "discovery_year": 1774,
         "uses": "Used in respiration, combustion, and water treatment."
     },
-    "F": {
+    {
         "name": "Fluorine",
         "symbol": "F",
         "atomic_number": 9,
@@ -125,11 +111,11 @@
         "discovery_year": 1886,
         "uses": "Used in toothpaste, refrigerants, and Teflon production."
     },
-    "Ne": {
+    {
         "name": "Neon",
         "symbol": "Ne",
         "atomic_number": 10,
-        "atomic_mass": 20.180,
+        "atomic_mass": 20.18,
         "electron_configuration": "[He] 2s2 2p6",
         "phase": "Gas",
         "category": "Noble Gas",
@@ -139,11 +125,11 @@
         "discovery_year": 1898,
         "uses": "Used in neon signs and high-voltage indicators."
     },
-    "Na": {
+    {
         "name": "Sodium",
         "symbol": "Na",
         "atomic_number": 11,
-        "atomic_mass": 22.990,
+        "atomic_mass": 22.99,
         "electron_configuration": "[Ne] 3s1",
         "phase": "Solid",
         "category": "Alkali Metal",
@@ -153,7 +139,7 @@
         "discovery_year": 1807,
         "uses": "Used in table salt, baking soda, and streetlights."
     },
-    "Mg": {
+    {
         "name": "Magnesium",
         "symbol": "Mg",
         "atomic_number": 12,
@@ -167,7 +153,7 @@
         "discovery_year": 1755,
         "uses": "Used in aerospace, fireworks, and supplements."
     },
-    "Al": {
+    {
         "name": "Aluminium",
         "symbol": "Al",
         "atomic_number": 13,
@@ -175,13 +161,13 @@
         "electron_configuration": "[Ne] 3s2 3p1",
         "phase": "Solid",
         "category": "Post-Transition Metal",
-        "density": 2.70,
+        "density": 2.7,
         "melting_point": 933.47,
         "boiling_point": 2792,
         "discovery_year": 1825,
         "uses": "Used in packaging, construction, and transportation."
     },
-    "Si": {
+    {
         "name": "Silicon",
         "symbol": "Si",
         "atomic_number": 14,
@@ -195,7 +181,7 @@
         "discovery_year": 1824,
         "uses": "Used in electronics, glassmaking, and solar cells."
     },
-    "P": {
+    {
         "name": "Phosphorus",
         "symbol": "P",
         "atomic_number": 15,
@@ -204,12 +190,12 @@
         "phase": "Solid",
         "category": "Nonmetal",
         "density": 1.82,
-        "melting_point": 317.30,
+        "melting_point": 317.3,
         "boiling_point": 553.65,
         "discovery_year": 1669,
         "uses": "Used in fertilizers, detergents, and fireworks."
     },
-    "S": {
+    {
         "name": "Sulfur",
         "symbol": "S",
         "atomic_number": 16,
@@ -223,7 +209,7 @@
         "discovery_year": "Ancient",
         "uses": "Used in sulfuric acid production, vulcanization, and fungicides."
     },
-    "Cl": {
+    {
         "name": "Chlorine",
         "symbol": "Cl",
         "atomic_number": 17,
@@ -237,7 +223,7 @@
         "discovery_year": 1774,
         "uses": "Used in water disinfection, PVC production, and bleach."
     },
-    "Ar": {
+    {
         "name": "Argon",
         "symbol": "Ar",
         "atomic_number": 18,
@@ -246,12 +232,12 @@
         "phase": "Gas",
         "category": "Noble Gas",
         "density": 0.001784,
-        "melting_point": 83.80,
-        "boiling_point": 87.30,
+        "melting_point": 83.8,
+        "boiling_point": 87.3,
         "discovery_year": 1894,
         "uses": "Used in welding, lighting, and as an inert gas."
     },
-    "K": {
+    {
         "name": "Potassium",
         "symbol": "K",
         "atomic_number": 19,
@@ -265,7 +251,7 @@
         "discovery_year": 1807,
         "uses": "Used in fertilizers, explosives, and pharmaceuticals."
     },
-    "Ca": {
+    {
         "name": "Calcium",
         "symbol": "Ca",
         "atomic_number": 20,
@@ -279,7 +265,7 @@
         "discovery_year": 1808,
         "uses": "Used in construction, food, and pharmaceuticals."
     },
-    "Sc": {
+    {
         "name": "Scandium",
         "symbol": "Sc",
         "atomic_number": 21,
@@ -293,7 +279,7 @@
         "discovery_year": 1879,
         "uses": "Used in aerospace components and as a trace element in aluminum alloys."
     },
-    "Ti": {
+    {
         "name": "Titanium",
         "symbol": "Ti",
         "atomic_number": 22,
@@ -307,7 +293,7 @@
         "discovery_year": 1791,
         "uses": "Used in aircraft, spacecraft, and medical devices."
     },
-    "V": {
+    {
         "name": "Vanadium",
         "symbol": "V",
         "atomic_number": 23,
@@ -321,7 +307,7 @@
         "discovery_year": 1801,
         "uses": "Used in steel alloys to increase strength and in batteries."
     },
-    "Cr": {
+    {
         "name": "Chromium",
         "symbol": "Cr",
         "atomic_number": 24,
@@ -335,7 +321,7 @@
         "discovery_year": 1797,
         "uses": "Used in stainless steel, chrome plating, and pigments."
     },
-    "Mn": {
+    {
         "name": "Manganese",
         "symbol": "Mn",
         "atomic_number": 25,
@@ -349,7 +335,7 @@
         "discovery_year": 1774,
         "uses": "Used in steel production, batteries, and ceramics."
     },
-    "Fe": {
+    {
         "name": "Iron",
         "symbol": "Fe",
         "atomic_number": 26,
@@ -363,7 +349,7 @@
         "discovery_year": "Ancient",
         "uses": "Used in construction, manufacturing, and tools."
     },
-    "Co": {
+    {
         "name": "Cobalt",
         "symbol": "Co",
         "atomic_number": 27,
@@ -371,13 +357,13 @@
         "electron_configuration": "[Ar] 3d7 4s2",
         "phase": "Solid",
         "category": "Transition Metal",
-        "density": 8.90,
+        "density": 8.9,
         "melting_point": 1768,
         "boiling_point": 3200,
         "discovery_year": 1735,
         "uses": "Used in batteries, alloys, and pigments."
     },
-    "Ni": {
+    {
         "name": "Nickel",
         "symbol": "Ni",
         "atomic_number": 28,
@@ -391,7 +377,7 @@
         "discovery_year": 1751,
         "uses": "Used in stainless steel, coins, and batteries."
     },
-    "Cu": {
+    {
         "name": "Copper",
         "symbol": "Cu",
         "atomic_number": 29,
@@ -405,7 +391,7 @@
         "discovery_year": "Ancient",
         "uses": "Used in electrical wiring, plumbing, and coins."
     },
-    "Zn": {
+    {
         "name": "Zinc",
         "symbol": "Zn",
         "atomic_number": 30,
@@ -419,7 +405,7 @@
         "discovery_year": "Ancient",
         "uses": "Used in galvanizing, batteries, and alloys."
     },
-    "Ga": {
+    {
         "name": "Gallium",
         "symbol": "Ga",
         "atomic_number": 31,
@@ -433,7 +419,7 @@
         "discovery_year": 1875,
         "uses": "Used in semiconductors, LEDs, and thermometers."
     },
-    "Ge": {
+    {
         "name": "Germanium",
         "symbol": "Ge",
         "atomic_number": 32,
@@ -442,16 +428,16 @@
         "phase": "Solid",
         "category": "Metalloid",
         "density": 5.323,
-        "melting_point": 1211.40,
+        "melting_point": 1211.4,
         "boiling_point": 3106,
         "discovery_year": 1886,
         "uses": "Used in semiconductors, fiber optics, and infrared optics."
     },
-    "As": {
+    {
         "name": "Arsenic",
         "symbol": "As",
         "atomic_number": 33,
-        "atomic_mass": 74.92160,
+        "atomic_mass": 74.9216,
         "electron_configuration": "[Ar] 3d10 4s2 4p3",
         "phase": "Solid",
         "category": "Metalloid",
@@ -461,7 +447,7 @@
         "discovery_year": "Ancient",
         "uses": "Used in pesticides, herbicides, and semiconductors."
     },
-    "Se": {
+    {
         "name": "Selenium",
         "symbol": "Se",
         "atomic_number": 34,
@@ -475,7 +461,7 @@
         "discovery_year": 1817,
         "uses": "Used in glassmaking, pigments, and photocells."
     },
-    "Br": {
+    {
         "name": "Bromine",
         "symbol": "Br",
         "atomic_number": 35,
@@ -489,7 +475,7 @@
         "discovery_year": 1826,
         "uses": "Used in flame retardants, photography, and water treatment."
     },
-    "Kr": {
+    {
         "name": "Krypton",
         "symbol": "Kr",
         "atomic_number": 36,
@@ -503,7 +489,7 @@
         "discovery_year": 1898,
         "uses": "Used in lighting and photography."
     },
-    "Rb": {
+    {
         "name": "Rubidium",
         "symbol": "Rb",
         "atomic_number": 37,
@@ -517,7 +503,7 @@
         "discovery_year": 1861,
         "uses": "Used in research and in atomic clocks."
     },
-    "Sr": {
+    {
         "name": "Strontium",
         "symbol": "Sr",
         "atomic_number": 38,
@@ -531,7 +517,7 @@
         "discovery_year": 1790,
         "uses": "Used in fireworks and in medical imaging."
     },
-    "Y": {
+    {
         "name": "Yttrium",
         "symbol": "Y",
         "atomic_number": 39,
@@ -545,7 +531,7 @@
         "discovery_year": 1794,
         "uses": "Used in LEDs and phosphors."
     },
-    "Zr": {
+    {
         "name": "Zirconium",
         "symbol": "Zr",
         "atomic_number": 40,
@@ -559,7 +545,7 @@
         "discovery_year": 1789,
         "uses": "Used in nuclear reactors and in corrosion-resistant alloys."
     },
-    "Nb": {
+    {
         "name": "Niobium",
         "symbol": "Nb",
         "atomic_number": 41,
@@ -573,7 +559,7 @@
         "discovery_year": 1801,
         "uses": "Used in steel alloys and superconductors."
     },
-    "Mo": {
+    {
         "name": "Molybdenum",
         "symbol": "Mo",
         "atomic_number": 42,
@@ -587,7 +573,7 @@
         "discovery_year": 1781,
         "uses": "Used in steel alloys and as a catalyst."
     },
-    "Tc": {
+    {
         "name": "Technetium",
         "symbol": "Tc",
         "atomic_number": 43,
@@ -601,7 +587,7 @@
         "discovery_year": 1937,
         "uses": "Used in medical diagnostic procedures."
     },
-    "Ru": {
+    {
         "name": "Ruthenium",
         "symbol": "Ru",
         "atomic_number": 44,
@@ -615,11 +601,11 @@
         "discovery_year": 1844,
         "uses": "Used in electrical contacts and as a catalyst."
     },
-    "Rh": {
+    {
         "name": "Rhodium",
         "symbol": "Rh",
         "atomic_number": 45,
-        "atomic_mass": 102.90550,
+        "atomic_mass": 102.9055,
         "electron_configuration": "[Kr] 4d8 5s1",
         "phase": "Solid",
         "category": "Transition Metal",
@@ -629,7 +615,7 @@
         "discovery_year": 1803,
         "uses": "Used in catalytic converters and jewelry."
     },
-    "Pd": {
+    {
         "name": "Palladium",
         "symbol": "Pd",
         "atomic_number": 46,
@@ -643,7 +629,7 @@
         "discovery_year": 1803,
         "uses": "Used in catalytic converters, electronics, and jewelry."
     },
-    "Ag": {
+    {
         "name": "Silver",
         "symbol": "Ag",
         "atomic_number": 47,
@@ -657,7 +643,7 @@
         "discovery_year": "Ancient",
         "uses": "Used in jewelry, coins, electronics, and photography."
     },
-    "Cd": {
+    {
         "name": "Cadmium",
         "symbol": "Cd",
         "atomic_number": 48,
@@ -671,7 +657,7 @@
         "discovery_year": 1817,
         "uses": "Used in batteries, pigments, and coatings."
     },
-    "In": {
+    {
         "name": "Indium",
         "symbol": "In",
         "atomic_number": 49,
@@ -685,11 +671,11 @@
         "discovery_year": 1863,
         "uses": "Used in semiconductors, LCDs, and solders."
     },
-    "Sn": {
+    {
         "name": "Tin",
         "symbol": "Sn",
         "atomic_number": 50,
-        "atomic_mass": 118.710,
+        "atomic_mass": 118.71,
         "electron_configuration": "[Kr] 4d10 5s2 5p2",
         "phase": "Solid",
         "category": "Post-Transition Metal",
@@ -699,11 +685,11 @@
         "discovery_year": "Ancient",
         "uses": "Used in solder, coatings, and alloys."
     },
-    "Sb": {
+    {
         "name": "Antimony",
         "symbol": "Sb",
         "atomic_number": 51,
-        "atomic_mass": 121.760,
+        "atomic_mass": 121.76,
         "electron_configuration": "[Kr] 4d10 5s2 5p3",
         "phase": "Solid",
         "category": "Metalloid",
@@ -713,11 +699,11 @@
         "discovery_year": "Ancient",
         "uses": "Used in flame retardants, alloys, and semiconductors."
     },
-    "Te": {
+    {
         "name": "Tellurium",
         "symbol": "Te",
         "atomic_number": 52,
-        "atomic_mass": 127.60,
+        "atomic_mass": 127.6,
         "electron_configuration": "[Kr] 4d10 5s2 5p4",
         "phase": "Solid",
         "category": "Metalloid",
@@ -727,7 +713,7 @@
         "discovery_year": 1782,
         "uses": "Used in thermoelectric devices, metallurgy, and electronics."
     },
-    "I": {
+    {
         "name": "Iodine",
         "symbol": "I",
         "atomic_number": 53,
@@ -741,7 +727,7 @@
         "discovery_year": 1811,
         "uses": "Used in disinfectants, pharmaceuticals, and photography."
     },
-    "Xe": {
+    {
         "name": "Xenon",
         "symbol": "Xe",
         "atomic_number": 54,
@@ -755,7 +741,7 @@
         "discovery_year": 1898,
         "uses": "Used in lighting, anesthesia, and ion propulsion systems."
     },
-    "Cs": {
+    {
         "name": "Cesium",
         "symbol": "Cs",
         "atomic_number": 55,
@@ -769,4 +755,130 @@
         "discovery_year": 1860,
         "uses": "Used in atomic clocks, electronics, and drilling fluids."
     },
-}
+    {
+        "name": "Lanthanum",
+        "symbol": "La",
+        "atomic_number": 57,
+        "atomic_mass": 138.90547,
+        "electron_configuration": "[Xe] 5d1 6s2",
+        "phase": "Solid",
+        "category": "Lanthanide",
+        "density": 6.15,
+        "melting_point": 1193,
+        "boiling_point": 3737,
+        "discovery_year": 1839,
+        "uses": "Used in camera lenses, hydrogen storage, and catalysts."
+    },
+    {
+        "name": "Cerium",
+        "symbol": "Ce",
+        "atomic_number": 58,
+        "atomic_mass": 140.116,
+        "electron_configuration": "[Xe] 4f1 5d1 6s2",
+        "phase": "Solid",
+        "category": "Lanthanide",
+        "density": 6.77,
+        "melting_point": 1068,
+        "boiling_point": 3716,
+        "discovery_year": 1803,
+        "uses": "Used in catalytic converters, glass polishing, and flints for lighters."
+    },
+    {
+        "name": "Praseodymium",
+        "symbol": "Pr",
+        "atomic_number": 59,
+        "atomic_mass": 140.90766,
+        "electron_configuration": "[Xe] 4f3 6s2",
+        "phase": "Solid",
+        "category": "Lanthanide",
+        "density": 6.77,
+        "melting_point": 1208,
+        "boiling_point": 3793,
+        "discovery_year": 1885,
+        "uses": "Used in aircraft engines, studio lighting, and magnets."
+    },
+    {
+        "name": "Neodymium",
+        "symbol": "Nd",
+        "atomic_number": 60,
+        "atomic_mass": 144.242,
+        "electron_configuration": "[Xe] 4f4 6s2",
+        "phase": "Solid",
+        "category": "Lanthanide",
+        "density": 7.01,
+        "melting_point": 1297,
+        "boiling_point": 3347,
+        "discovery_year": 1885,
+        "uses": "Used in powerful magnets, lasers, and glass coloring."
+    },
+    {
+        "name": "Promethium",
+        "symbol": "Pm",
+        "atomic_number": 61,
+        "atomic_mass": 145,
+        "electron_configuration": "[Xe] 4f5 6s2",
+        "phase": "Solid",
+        "category": "Lanthanide",
+        "density": 7.26,
+        "melting_point": 1315,
+        "boiling_point": 3273,
+        "discovery_year": 1945,
+        "uses": "Used in luminous paints, atomic batteries, and thickness gauges."
+    },
+    {
+        "name": "Samarium",
+        "symbol": "Sm",
+        "atomic_number": 62,
+        "atomic_mass": 150.36,
+        "electron_configuration": "[Xe] 4f6 6s2",
+        "phase": "Solid",
+        "category": "Lanthanide",
+        "density": 7.52,
+        "melting_point": 1345,
+        "boiling_point": 2067,
+        "discovery_year": 1879,
+        "uses": "Used in magnets, neutron capture, and cancer treatment."
+    },
+    {
+        "name": "Europium",
+        "symbol": "Eu",
+        "atomic_number": 63,
+        "atomic_mass": 151.964,
+        "electron_configuration": "[Xe] 4f7 6s2",
+        "phase": "Solid",
+        "category": "Lanthanide",
+        "density": 5.24,
+        "melting_point": 1099,
+        "boiling_point": 1802,
+        "discovery_year": 1901,
+        "uses": "Used in phosphorescent materials, TV screens, and LED lights."
+    },
+    {
+        "name": "Gadolinium",
+        "symbol": "Gd",
+        "atomic_number": 64,
+        "atomic_mass": 157.25,
+        "electron_configuration": "[Xe] 4f7 5d1 6s2",
+        "phase": "Solid",
+        "category": "Lanthanide",
+        "density": 7.9,
+        "melting_point": 1585,
+        "boiling_point": 3546,
+        "discovery_year": 1880,
+        "uses": "Used in MRI contrast agents, neutron capture, and electronics."
+    },
+    {
+        "name": "Terbium",
+        "symbol": "Tb",
+        "atomic_number": 65,
+        "atomic_mass": 158.92535,
+        "electron_configuration": "[Xe] 4f9 6s2",
+        "phase": "Solid",
+        "category": "Lanthanide",
+        "density": 8.23,
+        "melting_point": 1629,
+        "boiling_point": 3503,
+        "discovery_year": 1843,
+        "uses": "Used in solid-state devices, phosphors, and green LEDs."
+    }
+]
